@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-label="Screenshot placeholder for this student portfolio; replace with your own screenshot"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#303035"/><stop offset="1" stop-color="#121215"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dadade"/><stop offset="1" stop-color="#72727c"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity=".07"/></pattern>
+</defs><rect width="800" height="520" fill="url(#bg)"/><rect width="800" height="520" fill="url(#grid)"/><circle cx="673" cy="73" r="176" fill="none" stroke="#74747c" stroke-opacity=".3"/><circle cx="673" cy="73" r="144" fill="none" stroke="#74747c" stroke-opacity=".2"/>
+<rect x="90" y="71" width="620" height="375" rx="14" fill="#151519" stroke="#85858c" stroke-width="1.5"/>
+<rect x="90" y="71" width="620" height="46" rx="14" fill="#34343a"/><rect x="90" y="101" width="620" height="16" fill="#34343a"/>
+<circle cx="122" cy="94" r="6" fill="#b8b8c0"/><circle cx="143" cy="94" r="6" fill="#888891"/><circle cx="164" cy="94" r="6" fill="#61616a"/>
+<rect x="192" y="85" width="278" height="18" rx="5" fill="#212125"/>
+<rect x="122" y="145" width="556" height="180" rx="10" fill="#29292e"/>
+<rect x="148" y="175" width="180" height="10" rx="5" fill="#b4b4bd"/><rect x="148" y="198" width="256" height="26" rx="5" fill="#dedee2"/><rect x="148" y="237" width="220" height="8" rx="4" fill="#777780"/>
+<rect x="148" y="259" width="158" height="8" rx="4" fill="#777780"/><rect x="148" y="285" width="120" height="23" rx="5" fill="#dcdce0"/>
+<circle cx="590" cy="235" r="67" fill="#45454e"/><circle cx="590" cy="235" r="44" fill="none" stroke="#c7c7cc" stroke-width="2"/><text x="590" y="243" text-anchor="middle" fill="#f6f6f8" font-size="27" font-family="Arial" font-weight="bold">&lt;/&gt;</text>
+<rect x="122" y="351" width="173" height="67" rx="7" fill="#39393f"/><rect x="312" y="351" width="173" height="67" rx="7" fill="#313137"/><rect x="502" y="351" width="175" height="67" rx="7" fill="#29292f"/>
+<path d="M147 376h90M147 392h62M338 376h90M338 392h62M527 376h90M527 392h62" stroke="#a1a1a9" stroke-width="6" stroke-linecap="round" opacity=".55"/><rect y="471" width="800" height="49" fill="#101012"/><text x="40" y="499" font-family="Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="2" fill="#cacad0">ADD A SCREENSHOT OF THIS WEBSITE</text></svg>

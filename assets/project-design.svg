@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-label="Placeholder artwork for EDP / PRACTICE; replace with your own project screenshot"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#303035"/><stop offset="1" stop-color="#121215"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dadade"/><stop offset="1" stop-color="#72727c"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity=".07"/></pattern>
+</defs><rect width="800" height="520" fill="url(#bg)"/><rect width="800" height="520" fill="url(#grid)"/><rect x="113" y="72" width="574" height="354" rx="12" fill="#131316" stroke="#85858c"/>
+<rect x="113" y="72" width="574" height="42" rx="12" fill="#34343a"/><rect x="113" y="103" width="574" height="11" fill="#34343a"/>
+<rect x="113" y="114" width="97" height="312" fill="#222226"/><rect x="600" y="114" width="87" height="312" fill="#222226"/>
+<circle cx="151" cy="146" r="13" fill="#bebec4"/><rect x="136" y="186" width="57" height="9" rx="3" fill="#77777f"/><rect x="136" y="213" width="48" height="9" rx="3" fill="#77777f"/><rect x="136" y="240" width="57" height="9" rx="3" fill="#77777f"/>
+<rect x="226" y="135" width="358" height="260" rx="8" fill="#303036"/><rect x="244" y="153" width="320" height="225" rx="8" fill="#d8d8dc"/>
+<rect x="244" y="153" width="320" height="98" rx="8" fill="#7e7e86"/><rect x="244" y="244" width="320" height="8" fill="#7e7e86"/>
+<circle cx="470" cy="204" r="37" fill="#c7c7ce"/><circle cx="470" cy="204" r="24" fill="none" stroke="#56565e" stroke-width="2"/>
+<rect x="268" y="184" width="108" height="13" rx="4" fill="#e9e9ec"/><rect x="268" y="210" width="84" height="8" rx="4" fill="#cacad0"/>
+<rect x="268" y="271" width="137" height="8" rx="4" fill="#8b8b94"/><rect x="268" y="290" width="175" height="7" rx="4" fill="#a8a8b0"/><rect x="268" y="305" width="137" height="7" rx="4" fill="#a8a8b0"/><rect x="268" y="337" width="108" height="21" rx="6" fill="#42424a"/>
+<rect x="617" y="149" width="52" height="9" rx="4" fill="#9a9aa1"/><rect x="617" y="183" width="47" height="9" rx="4" fill="#717179"/><rect x="617" y="217" width="42" height="9" rx="4" fill="#717179"/>
+<circle cx="537" cy="350" r="33" fill="none" stroke="#777780" stroke-width="2" stroke-dasharray="4 5"/><rect y="471" width="800" height="49" fill="#101012"/><text x="40" y="499" font-family="Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="2" fill="#cacad0">REPLACE WITH YOUR EDP ACTIVITY SCREENSHOT</text></svg>
